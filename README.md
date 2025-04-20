@@ -13,13 +13,6 @@ AlgoViz is an interactive visualization tool built with the Tkinter library in P
 | Selection Sort     |  (O(N^2)        |
 | Insertion Sort     |  (O(N)          |
 
-### Sorting Algorithms Control Panel:
-- Adjustable array size
-- Adjustable value ranges
-- Adjustable animation speed in seconds
-- Select an algorithm from the combobox
-- Real-time visualization
-
 ### Supported Data Structure and Methods:
 - Stack: Push, Pop, Search, Peek
 - Queue: Enqueue, Dequeue, Search
